@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="presentation_batch_b_songs_dot_duration">
+        <item quantity="other">%1$d canciones • %2$s</item>
+        <item quantity="one">%1$d canción • %2$s</item>
+    </plurals>
+    <plurals name="presentation_batch_e_n_songs_selected">
+        <item quantity="other">%d canciones seleccionadas</item>
+        <item quantity="one">%d canción seleccionada</item>
+    </plurals>
+    <plurals name="presentation_batch_e_queue_tracks_lined_up">
+        <item quantity="other">%d temas en cola.</item>
+        <item quantity="one">1 tema en cola.</item>
+    </plurals>
+    <plurals name="presentation_batch_f_n_songs">
+        <item quantity="other">%d canciones</item>
+        <item quantity="one">%d canción</item>
+    </plurals>
+    <plurals name="presentation_batch_f_n_topics">
+        <item quantity="other">%d temas</item>
+        <item quantity="one">%d tema</item>
+    </plurals>
+    <plurals name="sharing_playlists_message">
+        <item quantity="other">Compartiendo %d listas</item>
+        <item quantity="one">Compartiendo %d lista</item>
+    </plurals>
+    <plurals name="sleep_timer_play_count_times">
+        <item quantity="other">%d veces</item>
+        <item quantity="one">%d vez</item>
+    </plurals>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut android:icon="@drawable/ic_shortcut_shuffle" android:enabled="true" android:shortcutId="shuffle_all" android:shortcutShortLabel="@string/shortcut_shuffle_short" android:shortcutLongLabel="@string/shortcut_shuffle_long">
+        <intent android:targetPackage="com.unshoo.pixelmusic" android:action="com.unshoo.pixelmusic.ACTION_SHUFFLE_ALL" android:targetClass="com.unshoo.pixelmusic.MainActivity" />
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+</shortcuts>

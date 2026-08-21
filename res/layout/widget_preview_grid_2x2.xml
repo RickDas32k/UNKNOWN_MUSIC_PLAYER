@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:padding="16.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:background="@drawable/widget_surface_background" android:padding="16.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:id="@id/album_art" android:background="@drawable/widget_album_art_placeholder" android:layout_width="44.0dip" android:layout_height="44.0dip" android:layout_weight="1.0" android:contentDescription="Album Art" />
+            <ImageView android:background="@drawable/widget_button_primary_background" android:padding="10.0dip" android:layout_width="44.0dip" android:layout_height="44.0dip" android:src="@drawable/rounded_pause_24" android:layout_weight="1.0" android:contentDescription="Play/Pause" android:layout_marginStart="6.0dip" app:tint="?android:colorBackground" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="6.0dip">
+            <ImageView android:background="@drawable/widget_button_secondary_background" android:padding="10.0dip" android:layout_width="44.0dip" android:layout_height="44.0dip" android:src="@drawable/rounded_skip_previous_24" android:layout_weight="1.0" android:contentDescription="Previous" app:tint="?android:textColorSecondary" />
+            <ImageView android:background="@drawable/widget_button_secondary_background" android:padding="10.0dip" android:layout_width="44.0dip" android:layout_height="44.0dip" android:src="@drawable/rounded_skip_next_24" android:layout_weight="1.0" android:contentDescription="Next" android:layout_marginStart="6.0dip" app:tint="?android:textColorSecondary" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="presentation_batch_e_ai_activity_options">
+        <item>Workout</item>
+        <item>Fokus</item>
+        <item>Road Trip</item>
+        <item>Party</item>
+        <item>Lernen</item>
+        <item>Late Night</item>
+    </string-array>
+    <string-array name="presentation_batch_e_ai_era_options">
+        <item>@string/presentation_batch_e_ai_era_any</item>
+        <item>70er</item>
+        <item>80er</item>
+        <item>90er</item>
+        <item>2000er</item>
+        <item>2010er</item>
+        <item>2020er</item>
+    </string-array>
+    <string-array name="presentation_batch_e_ai_mood_options">
+        <item>Chill</item>
+        <item>Energiegeladen</item>
+        <item>Fröhlich</item>
+        <item>Dunkel</item>
+        <item>Romantisch</item>
+        <item>Melancholisch</item>
+    </string-array>
+</resources>

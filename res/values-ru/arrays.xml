@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="presentation_batch_e_ai_activity_options">
+        <item>Тренировка</item>
+        <item>Фокус</item>
+        <item>Дорога</item>
+        <item>Вечеринка</item>
+        <item>Учеба</item>
+        <item>Поздняя ночь</item>
+    </string-array>
+    <string-array name="presentation_batch_e_ai_era_options">
+        <item>@string/presentation_batch_e_ai_era_any</item>
+        <item>70-е</item>
+        <item>80-е</item>
+        <item>90-е</item>
+        <item>2000-е</item>
+        <item>2010-е</item>
+        <item>2020-е</item>
+    </string-array>
+    <string-array name="presentation_batch_e_ai_mood_options">
+        <item>Спокойное</item>
+        <item>Энергичное</item>
+        <item>Веселое</item>
+        <item>Мрачное</item>
+        <item>Романтичное</item>
+        <item>Меланхоличное</item>
+    </string-array>
+</resources>

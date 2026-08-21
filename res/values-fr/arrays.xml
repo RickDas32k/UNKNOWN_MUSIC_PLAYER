@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="presentation_batch_e_ai_activity_options">
+        <item>Sport</item>
+        <item>Concentration</item>
+        <item>Voyage</item>
+        <item>Fête</item>
+        <item>Étude</item>
+        <item>Tard dans la nuit</item>
+    </string-array>
+    <string-array name="presentation_batch_e_ai_era_options">
+        <item>@string/presentation_batch_e_ai_era_any</item>
+        <item>Années 70</item>
+        <item>Années 80</item>
+        <item>Années 90</item>
+        <item>Années 2000</item>
+        <item>Années 2010</item>
+        <item>Années 2020</item>
+    </string-array>
+    <string-array name="presentation_batch_e_ai_mood_options">
+        <item>Détendu</item>
+        <item>Énergique</item>
+        <item>Joyeux</item>
+        <item>Sombre</item>
+        <item>Romantique</item>
+        <item>Mélancolique</item>
+    </string-array>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_songs_confirmation_title">
+        <item quantity="other">Eliminare %d brani?</item>
+        <item quantity="one">Eliminare %d brano?</item>
+    </plurals>
+    <plurals name="exported_playlists_message">
+        <item quantity="other">Esportate %1$d playlist in %2$s</item>
+        <item quantity="one">Esportata %1$d playlist in %2$s</item>
+    </plurals>
+    <plurals name="n_files_deleted">
+        <item quantity="other">%d file eliminati</item>
+        <item quantity="one">%d file eliminato</item>
+    </plurals>
+    <plurals name="n_songs_added_to_favorites">
+        <item quantity="other">%d brani aggiunti ai preferiti</item>
+        <item quantity="one">%d brano aggiunto ai preferiti</item>
+    </plurals>
+    <plurals name="n_songs_added_to_queue">
+        <item quantity="other">%d brani aggiunti alla coda</item>
+        <item quantity="one">%d brano aggiunto alla coda</item>
+    </plurals>
+    <plurals name="n_songs_removed_from_favorites">
+        <item quantity="other">%d brani rimossi dai preferiti</item>
+        <item quantity="one">%d brano rimosso dai preferiti</item>
+    </plurals>
+    <plurals name="n_songs_will_play_next">
+        <item quantity="other">%d brani verranno riprodotti dopo</item>
+        <item quantity="one">%d brano verrà riprodotto dopo</item>
+    </plurals>
+    <plurals name="presentation_batch_b_songs_dot_duration">
+        <item quantity="other">%1$d brani • %2$s</item>
+        <item quantity="one">%1$d brano • %2$s</item>
+    </plurals>
+    <plurals name="presentation_batch_e_n_songs_selected">
+        <item quantity="other">%d brani selezionati</item>
+        <item quantity="one">%d brano selezionato</item>
+    </plurals>
+    <plurals name="presentation_batch_e_queue_tracks_lined_up">
+        <item quantity="other">%d tracce in coda.</item>
+        <item quantity="one">1 traccia in coda.</item>
+    </plurals>
+    <plurals name="presentation_batch_f_n_songs">
+        <item quantity="other">%d brani</item>
+        <item quantity="one">%d brano</item>
+    </plurals>
+    <plurals name="presentation_batch_f_n_topics">
+        <item quantity="other">%d argomenti</item>
+        <item quantity="one">%d argomento</item>
+    </plurals>
+    <plurals name="sharing_playlists_message">
+        <item quantity="other">Condivisione di %d playlist</item>
+        <item quantity="one">Condivisione di %d playlist</item>
+    </plurals>
+    <plurals name="sleep_timer_play_count_times">
+        <item quantity="other">%d volte</item>
+        <item quantity="one">%d volta</item>
+    </plurals>
+</resources>

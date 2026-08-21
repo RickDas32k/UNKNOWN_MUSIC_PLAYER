@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_songs_confirmation_title">
+        <item quantity="other">Hapus %d lagu?</item>
+        <item quantity="one">Hapus %d lagu?</item>
+    </plurals>
+    <plurals name="exported_playlists_message">
+        <item quantity="other">Mengekspor %1$d playlist ke %2$s</item>
+        <item quantity="one">Mengekspor %1$d playlist ke %2$s</item>
+    </plurals>
+    <plurals name="n_files_deleted">
+        <item quantity="other">%d file dihapus</item>
+        <item quantity="one">%d file dihapus</item>
+    </plurals>
+    <plurals name="n_songs_added_to_favorites">
+        <item quantity="other">%d lagu ditambahkan ke favorit</item>
+        <item quantity="one">%d lagu ditambahkan ke favorit</item>
+    </plurals>
+    <plurals name="n_songs_added_to_queue">
+        <item quantity="other">%d lagu ditambahkan ke antrean</item>
+        <item quantity="one">%d lagu ditambahkan ke antrean</item>
+    </plurals>
+    <plurals name="n_songs_removed_from_favorites">
+        <item quantity="other">%d lagu dihapus dari favorit</item>
+        <item quantity="one">%d lagu dihapus dari favorit</item>
+    </plurals>
+    <plurals name="n_songs_will_play_next">
+        <item quantity="other">%d lagu akan diputar berikutnya</item>
+        <item quantity="one">%d lagu akan diputar berikutnya</item>
+    </plurals>
+    <plurals name="presentation_batch_b_songs_dot_duration">
+        <item quantity="other">%1$d lagu • %2$s</item>
+        <item quantity="one">%1$d lagu • %2$s</item>
+    </plurals>
+    <plurals name="presentation_batch_e_n_songs_selected">
+        <item quantity="other">%d lagu terpilih</item>
+        <item quantity="one">%d lagu terpilih</item>
+    </plurals>
+    <plurals name="presentation_batch_e_queue_tracks_lined_up">
+        <item quantity="other">%d trek telah siap.</item>
+        <item quantity="one">1 trek telah siap.</item>
+    </plurals>
+    <plurals name="presentation_batch_f_n_songs">
+        <item quantity="other">%d lagu</item>
+        <item quantity="one">%d lagu</item>
+    </plurals>
+    <plurals name="presentation_batch_f_n_topics">
+        <item quantity="other">%d topik</item>
+        <item quantity="one">%d topik</item>
+    </plurals>
+    <plurals name="sharing_playlists_message">
+        <item quantity="other">Berbagi %d playlist</item>
+        <item quantity="one">Berbagi %d playlist</item>
+    </plurals>
+    <plurals name="sleep_timer_play_count_times">
+        <item quantity="other">%d kali</item>
+        <item quantity="one">%d kali</item>
+    </plurals>
+</resources>

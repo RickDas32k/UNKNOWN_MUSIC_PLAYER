@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="presentation_batch_e_ai_activity_options">
+        <item>Olahraga</item>
+        <item>Fokus</item>
+        <item>Perjalanan jauh</item>
+        <item>Pesta</item>
+        <item>Belajar</item>
+        <item>Larut malam</item>
+    </string-array>
+    <string-array name="presentation_batch_e_ai_era_options">
+        <item>@string/presentation_batch_e_ai_era_any</item>
+        <item>70-an</item>
+        <item>80-an</item>
+        <item>90-an</item>
+        <item>2000-an</item>
+        <item>2010-an</item>
+        <item>2020-an</item>
+    </string-array>
+    <string-array name="presentation_batch_e_ai_mood_options">
+        <item>Santai</item>
+        <item>Energik</item>
+        <item>Bahagia</item>
+        <item>Gelap</item>
+        <item>Romantis</item>
+        <item>Melankolis</item>
+    </string-array>
+    <string-array name="presentation_batch_g_changelog_070_fixes">
+        <item>Memperbaiki perilaku antrean dan shuffle agar pemutaran lebih stabil.</item>
+        <item>Memperbaiki masalah pemutaran latar belakang dan notifikasi.</item>
+        <item>Perbaikan bug umum dan penyempurnaan UI.</item>
+    </string-array>
+    <string-array name="presentation_batch_g_changelog_070_highlights">
+        <item>Peningkatan integrasi AI dan pembuatan playlist yang lebih cerdas.</item>
+        <item>Statistik mendengarkan yang lebih lengkap dengan insight dan visualisasi baru.</item>
+        <item>Alur sinkronisasi pustaka yang lebih baik di semua penyedia cloud.</item>
+        <item>Pengeditan metadata yang lebih baik dengan dukungan sampul album.</item>
+    </string-array>
+    <string-array name="presentation_batch_g_changelog_070_improvements">
+        <item>Peningkatan performa pada startup, pustaka, antrean, dan interaksi pemutar.</item>
+        <item>Tampilan Material 3 yang disempurnakan untuk pengalaman yang lebih rapi dan konsisten.</item>
+        <item>Animasi dan transisi yang lebih mulus di seluruh aplikasi.</item>
+        <item>Pencarian yang lebih relevan dan penemuan lagu yang lebih cepat.</item>
+    </string-array>
+</resources>

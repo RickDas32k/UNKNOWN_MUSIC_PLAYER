@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="presentation_batch_e_ai_activity_options">
+        <item>운동</item>
+        <item>집중</item>
+        <item>드라이브</item>
+        <item>파티</item>
+        <item>공부</item>
+        <item>늦은 밤</item>
+    </string-array>
+    <string-array name="presentation_batch_e_ai_era_options">
+        <item>@string/presentation_batch_e_ai_era_any</item>
+        <item>70년대</item>
+        <item>80년대</item>
+        <item>90년대</item>
+        <item>2000년대</item>
+        <item>2010년대</item>
+        <item>2020년대</item>
+    </string-array>
+    <string-array name="presentation_batch_e_ai_mood_options">
+        <item>편안함</item>
+        <item>활기참</item>
+        <item>행복함</item>
+        <item>어두움</item>
+        <item>로맨틱함</item>
+        <item>우울함</item>
+    </string-array>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/widget_surface_background" android:padding="16.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/album_art" android:background="@drawable/widget_album_art_placeholder" android:layout_width="72.0dip" android:layout_height="72.0dip" android:contentDescription="@string/widget_album_art" />
+        <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:layout_marginStart="16.0dip">
+            <TextView android:textSize="16.0sp" android:textStyle="bold" android:textColor="?android:textColorPrimary" android:ellipsize="end" android:id="@id/song_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/app_name" android:maxLines="2" />
+            <TextView android:textSize="14.0sp" android:textColor="?android:textColorSecondary" android:ellipsize="end" android:id="@id/artist_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:text="@string/widget_tap_to_open" android:maxLines="1" />
+        </LinearLayout>
+    </LinearLayout>
+    <Space android:layout_width="fill_parent" android:layout_height="16.0dip" />
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:background="@drawable/widget_button_secondary_background" android:padding="12.0dip" android:layout_width="0.0dip" android:layout_height="48.0dip" android:src="@drawable/rounded_shuffle_24" android:layout_weight="1.0" android:contentDescription="Shuffle" app:tint="?android:textColorSecondary" />
+        <ImageView android:background="@drawable/widget_button_secondary_background" android:padding="12.0dip" android:layout_width="0.0dip" android:layout_height="48.0dip" android:src="@drawable/rounded_skip_previous_24" android:layout_weight="1.0" android:contentDescription="Previous" android:layout_marginStart="6.0dip" app:tint="?android:textColorSecondary" />
+        <ImageView android:background="@drawable/widget_button_primary_background" android:padding="12.0dip" android:layout_width="0.0dip" android:layout_height="48.0dip" android:src="@drawable/rounded_pause_24" android:layout_weight="1.0" android:contentDescription="Play/Pause" android:layout_marginStart="6.0dip" app:tint="?android:colorBackground" />
+        <ImageView android:background="@drawable/widget_button_secondary_background" android:padding="12.0dip" android:layout_width="0.0dip" android:layout_height="48.0dip" android:src="@drawable/rounded_skip_next_24" android:layout_weight="1.0" android:contentDescription="Next" android:layout_marginStart="6.0dip" app:tint="?android:textColorSecondary" />
+        <ImageView android:background="@drawable/widget_button_secondary_background" android:padding="12.0dip" android:layout_width="0.0dip" android:layout_height="48.0dip" android:src="@drawable/rounded_repeat_24" android:layout_weight="1.0" android:contentDescription="Repeat" android:layout_marginStart="6.0dip" app:tint="?android:textColorSecondary" />
+    </LinearLayout>
+</LinearLayout>

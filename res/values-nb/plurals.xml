@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_songs_confirmation_title">
+        <item quantity="other">Slett %d sanger?</item>
+        <item quantity="one">Slett %d sang?</item>
+    </plurals>
+    <plurals name="exported_playlists_message">
+        <item quantity="other">Eksporterte %1$d spillelister til %2$s</item>
+        <item quantity="one">Eksporterte %1$d spilleliste til %2$s</item>
+    </plurals>
+    <plurals name="n_files_deleted">
+        <item quantity="other">%d filer slettet</item>
+        <item quantity="one">%d fil slettet</item>
+    </plurals>
+    <plurals name="n_songs_added_to_favorites">
+        <item quantity="other">%d sanger lagt til i favoritter</item>
+        <item quantity="one">%d sang lagt til i favoritter</item>
+    </plurals>
+    <plurals name="n_songs_added_to_queue">
+        <item quantity="other">%d sanger lagt i kø</item>
+        <item quantity="one">%d sang lagt i kø</item>
+    </plurals>
+    <plurals name="n_songs_removed_from_favorites">
+        <item quantity="other">%d sanger fjernet fra favoritter</item>
+        <item quantity="one">%d sang fjernet fra favoritter</item>
+    </plurals>
+    <plurals name="n_songs_will_play_next">
+        <item quantity="other">%d sanger spilles som neste</item>
+        <item quantity="one">%d sang spilles som neste</item>
+    </plurals>
+    <plurals name="presentation_batch_b_songs_dot_duration">
+        <item quantity="other">%1$d sanger • %2$s</item>
+        <item quantity="one">%1$d sang • %2$s</item>
+    </plurals>
+    <plurals name="presentation_batch_e_n_songs_selected">
+        <item quantity="other">%d sanger valgt</item>
+        <item quantity="one">%d sang valgt</item>
+    </plurals>
+    <plurals name="presentation_batch_e_queue_tracks_lined_up">
+        <item quantity="other">%d spor i kø.</item>
+        <item quantity="one">1 spor i kø.</item>
+    </plurals>
+    <plurals name="presentation_batch_f_n_songs">
+        <item quantity="other">%d sanger</item>
+        <item quantity="one">%d sang</item>
+    </plurals>
+    <plurals name="presentation_batch_f_n_topics">
+        <item quantity="other">%d emner</item>
+        <item quantity="one">%d emne</item>
+    </plurals>
+    <plurals name="sharing_playlists_message">
+        <item quantity="other">Deler %d spillelister</item>
+        <item quantity="one">Deler %d spilleliste</item>
+    </plurals>
+    <plurals name="sleep_timer_play_count_times">
+        <item quantity="other">%d ganger</item>
+        <item quantity="one">%d gang</item>
+    </plurals>
+</resources>
